@@ -1,6 +1,6 @@
 # 👀 About me
 
-<img align="right" src="logo.png">
+<img align="right" width="200px" height="200px" src="logo.png">
 
 **Hi ! I'm an development amateur from France on little projects like Discord Bots or my [website](https://kinchi.tmor.xyz/).**
 <br />
