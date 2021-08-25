@@ -22,5 +22,5 @@
 
 ## 📈 GitHub Stats
 <div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KinchiFR&show_icons=true&theme=radical&count_private=true&hide_border=true&hide=contribs" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KinchiFR&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&hide=contribs" />
 </div>
