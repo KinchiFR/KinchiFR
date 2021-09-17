@@ -2,11 +2,11 @@
 
 <img align="right" width="200px" height="200px" src="logo.png">
 
-**Hi ! I'm an development amateur from France on little projects like Discord Bots or my [website](https://kinchi.tmor.xyz/).**
+**Hi ! I'm an development amateur from France on little projects like Discord Bots or my [website](https://souna.xyz/).**
 <br />
 **I don't have any public repositories but i'll try my best to share what I do in my days.**
 <br />
-**If you want you can join my little [Discord Server](https://discord.gg/M77ww9gYEf) to see my work and discuss with everyone :)**
+**If you want you can join my little ~~[Discord Server]~~() to see my work and discuss with everyone :)**
 
 ![Discord Banner 2](https://discordapp.com/api/guilds/846005274061963274/widget.png?style=banner2)
 
