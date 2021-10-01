@@ -1,6 +1,6 @@
 # 👀 About me
 
-<img align="right" width="200px" height="200px" src="logo.png">
+<img align="right" width="200px" height="200px" src="logo-circled.png">
 
 **Hi ! I'm an development amateur from France on little projects like Discord Bots or my [website](https://souna.xyz/).**
 <br />
