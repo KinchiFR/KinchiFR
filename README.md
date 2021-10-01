@@ -6,9 +6,6 @@
 <br />
 **I don't have any public repositories but i'll try my best to share what I do in my days.**
 <br />
-**If you want you can join my little ~~[Discord Server]~~() to see my work and discuss with everyone :)**
-
-![Discord Banner 2](https://discordapp.com/api/guilds/846005274061963274/widget.png?style=banner2)
 
 ## 🛠️ Tools & 🖥️ Langs 
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/nodejs/nodejs-original.svg" />
@@ -22,5 +19,5 @@
 
 ## 📈 GitHub Stats
 <div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KinchiFR&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&hide=contribs" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SounaFR&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&hide=contribs" />
 </div>
