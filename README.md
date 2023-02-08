@@ -2,9 +2,9 @@
 
 <img align="right" width="200px" height="200px" src="logo-circled.png">
 
-**Hi ! I'm an development amateur from France on little projects like Discord Bots or my [website](https://souna.xyz/).**
+**Hi ! I'm an development amateur from France on little projects like Discord Bots or websites with different technologies.**
 <br />
-**I don't have any public repositories but i'll try my best to share what I do in my days.**
+**I don't have many public repositories but i'll try my best to share what I do in my days.**
 <br />
 
 ## 🛠️ Tools & 🖥️ Langs 
@@ -19,6 +19,6 @@
 
 ## 📈 GitHub Stats
 <div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SounaFR&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&hide=contribs" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SounaFR&layout=compact&langs_count=7&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SounaVR&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&hide=contribs" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SounaVR&layout=compact&langs_count=7&theme=radical"/>
 </div>
