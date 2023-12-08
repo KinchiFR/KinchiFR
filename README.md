@@ -1,6 +1,6 @@
 # 👀 About me
 
-**Hi ! I'm an development amateur from France on little projects like Discord Bots or websites with different technologies.**
+**Hi ! I'm a development amateur from France on little projects like Discord Bots or websites with different technologies.**
 <br />
 **Trying my best to be active but I've motivation issues.**
 <br />
