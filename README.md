@@ -26,6 +26,6 @@
   <img alt="C#" width="50px" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
 
   <h2> 📈 GitHub Stats</h2>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SounaVR&layout=compact&langs_count=20&theme=github_dark&hide=lua,scss,python,shell"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SounaVR&layout=compact&langs_count=20&theme=github_dark&hide=lua,scss,roff"/>
   <img src="https://github-readme-stats.vercel.app/api?username=SounaVR&show_icons=true&theme=github_dark&hide=contribs,issues" />
 </div>
