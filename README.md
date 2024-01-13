@@ -1,11 +1,14 @@
 <div align="center">
-  <h1> 👀 About me</h1>
+  
+  # 👀 About me
 
-  <p>Hi ! I'm a development amateur from France on little projects like Discord Bots or websites with different technologies.</p>
+  Hi ! Self-taught developer since 2017 from France working on little projects like Discord Bots or websites with different technologies.
 
-  <p>Trying my best to be active but I've motivation issues.</p>
+  Trying my best to be active but I've motivation issues.
 
-  <h2> 🛠️ Tools & Languages 🖥️</h2>
+  My repositories are organized [here](https://github.com/SounaVR?tab=stars)⭐
+
+  ## 🛠️ Tools & Languages 🖥️
   <img alt="Linux" width="50px" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
   <img alt="Visual Studio" width="50px" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
   <img alt="Git" width="50px" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" />
