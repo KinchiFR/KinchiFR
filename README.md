@@ -6,7 +6,7 @@
 
   Trying my best to be active but I've motivation issues.
   
-  My repositories are organized <a href="https://github.com/SounaVR?tab=stars" target="_blank">here</a>⭐
+  My repositories are organized [here](https://github.com/SounaVR?tab=stars)⭐
 
   ## 🛠️ Tools & Languages 🖥️
   <img alt="Linux" width="50px" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
