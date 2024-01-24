@@ -3,8 +3,6 @@
   # 👀 About me
 
   Hi ! Self-taught developer since 2017 from France working on little projects like Discord Bots or websites with different technologies.
-
-  Trying my best to be active but I've motivation issues.
   
   My repositories are organized [here](https://github.com/SounaVR?tab=stars)⭐
 
