@@ -28,8 +28,6 @@
   <img alt="C#" width="50px" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
 
   <h2> 📈 GitHub Stats</h2>
-</div>
-<div>
-  <img height="200" width="500" align="center" src="https://github-readme-stats.vercel.app/api?username=SounaVR&show_icons=true&theme=github_dark&hide=contribs,issues&count_private=true&hide_border=true" />
-  <img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SounaVR&layout=compact&langs_count=6&theme=github_dark&hide=lua,scss,roff&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=SounaVR&show_icons=true&theme=github_dark&hide=contribs,issues&count_private=true&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SounaVR&layout=compact&langs_count=6&theme=github_dark&hide=lua,scss,roff&hide_border=true"/>
 </div>
