@@ -11,7 +11,7 @@
   <img alt="Visual Studio" width="50px" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
   <img alt="Git" width="50px" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" />
   <img alt="GitHub" width="50px" height="50px" src="https://cdn.discordapp.com/attachments/1112848968288833690/1193205832117145771/github_white.png?ex=65abde87&is=65996987&hm=65934aca82660a5d176b8021fb0b36ade17b1715d36a8ca255e102810cc1e4bc&" />
-  <img alt="Node.js" width="50px" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+  <img alt="Node.js" width="50px" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" />
   
   <img alt="HTML5" width="50px" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
   <img alt="CSS3" width="50px" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
