@@ -12,7 +12,7 @@
   <img alt="Visual Studio" width="50px" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
   <img alt="Git" width="50px" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" />
   <img alt="Docker" width="50px" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" />
-  <img alt="GitHub" width="50px" height="50px" src="https://github.com/SounaVR/SounaVR/blob/main/github_white.png" />
+  <img alt="GitHub" width="50px" height="50px" src="https://raw.githubusercontent.com/SounaVR/SounaVR/main/github_white.png" />
   <img alt="Node.js" width="50px" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" />
   
   <img alt="HTML5" width="50px" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
@@ -27,7 +27,7 @@
   <img alt="MongoDB" width="50px" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />
 
   <h4> 🎮 Game Dev Stuff</h4>
-  <img alt="Unity" width="50px" height="50px" src="https://github.com/SounaVR/SounaVR/blob/main/unity_white.png" />
+  <img alt="Unity" width="50px" height="50px" src="https://raw.githubusercontent.com/SounaVR/SounaVR/main/unity_white.png" />
   <img alt="C#" width="50px" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
 
   <h2> 📈 GitHub Stats</h2>
