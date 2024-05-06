@@ -7,6 +7,7 @@
   My repositories are organized [here](https://github.com/SounaVR?tab=stars)⭐
 
   ## 🛠️ Tools & Languages 🖥️
+  <img alt="Windows" width="50px" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" />
   <img alt="Archlinux" width="50px" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-original.svg" />
   <img alt="Visual Studio" width="50px" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
   <img alt="Git" width="50px" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" />
