@@ -10,6 +10,7 @@
   <img alt="Archlinux" width="50px" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-original.svg" />
   <img alt="Visual Studio" width="50px" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
   <img alt="Git" width="50px" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" />
+  <img alt="Docker" width="50px" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" />
   <img alt="GitHub" width="50px" height="50px" src="github_white.png" />
   <img alt="Node.js" width="50px" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" />
   
